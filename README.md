@@ -6,8 +6,9 @@
   <a href="mailto:binyameen.binz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://orcid.org/0009-0009-6395-063X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
 </p>
+
 ![snake](https://raw.githubusercontent.com/binz1486/binz1486/output/github-contribution-grid-snake-dark.svg)
----
+
 
 ### 🚀 About Me
 
