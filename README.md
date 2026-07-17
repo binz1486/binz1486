@@ -53,19 +53,6 @@ End-to-end ML pipeline on 265 years of climate data · 6 engineered features · 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binz1486&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=binz1486&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binz1486&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🏆 Recognition
 
 - Top Performer — Generative AI, HEC x Aspire Pakistan
